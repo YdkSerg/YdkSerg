@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YdkSerg&layout=compact&theme=dark)
 
 <!--
 **YdkSerg/YdkSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
