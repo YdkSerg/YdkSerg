@@ -1,5 +1,15 @@
  Hi there 👋
 
+
+
+### Статистика на GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+
+### Мой стек технологий
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 <!--
 **YdkSerg/YdkSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
